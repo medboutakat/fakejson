@@ -5,7 +5,9 @@ git clone  https://github.com/medcris/fakejson.git
 
 git add * # to stach file \
 git commit -m 'initial commit of my project' \
-git push
+git push\
+
+https://my-json-server.typicode.com/medcris/fakejson/
 
 
 
